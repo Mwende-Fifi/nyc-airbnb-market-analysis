@@ -1,5 +1,4 @@
-# Python Project EDA & Data Viz - AirBnB Listing 2024(New York)
-
+### The Price of Staying in NYC: An Exploratory Analysis of Airbnb Listings
 ## Table of Contents
 
 - [Project Overview](#project-overview)
